@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "serphub": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://serphub.io/mcp",
+        "--header",
+        "Authorization: Bearer YOUR_SERPHUB_TOKEN"
+      ]
+    }
+  }
+}

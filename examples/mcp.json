@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "serphub": {
+      "url": "https://serphub.io/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_SERPHUB_TOKEN"
+      }
+    }
+  }
+}
