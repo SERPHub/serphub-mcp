@@ -1,5 +1,7 @@
 # SERPHub MCP Server
 
+[![SERPHub MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.serphub/serphub/badges/score.svg)](https://glama.ai/mcp/connectors/io.serphub/serphub)
+
 Connect AI assistants (Claude Desktop, Cursor, VS Code, Windsurf, Antigravity, and any MCP-compatible client) directly to your **[SERPHub](https://serphub.io)** SEO data — covering Google Search Console, Bing Webmaster Tools, Yandex Webmaster, technical site audits, local rank grids, AI visibility (AEO), backlinks, and client reports.
 
 - **MCP Endpoint:** `https://serphub.io/mcp`
